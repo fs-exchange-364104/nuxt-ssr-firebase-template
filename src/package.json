@@ -10,7 +10,11 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
-    "nuxt": "^2.14.6"
+    "nuxt": "^2.14.6",
+    "@nuxtjs/axios": "latest",
+    "@nuxtjs/dotenv": "latest",
+    "axios": "latest",
+    "firebase": "^9.15.0"
   },
   "devDependencies": {}
 }
